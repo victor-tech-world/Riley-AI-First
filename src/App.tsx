@@ -4,15 +4,15 @@ import './App.css';
 import Header from './components/header/Header';
 import Footer from './components/footer/Footer';
 import Dashboard from './components/section/Layout'
-import First from './components/section/First';
+import First from './components/section/first/First';
 
 function App() {
   return (
     <>
-    <Header/>
-    <Dashboard/>
-    {/* <First/> */}
-    <Footer/>
+      <Header />
+      <Dashboard />
+      {/* <First/> */}
+      <Footer />
     </>
   );
 }
