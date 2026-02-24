@@ -2,12 +2,17 @@ import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 import Header from './components/header/Header';
+import Footer from './components/footer/Footer';
+import Dashboard from './components/section/Layout'
+import First from './components/section/first/First';
 
 function App() {
   return (
     <>
-    <Header/>
-      Hello World!
+      <Header />
+      <Dashboard />
+      {/* <First/> */}
+      <Footer />
     </>
   );
 }
