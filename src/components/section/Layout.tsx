@@ -1,6 +1,7 @@
 import BadRevenue from "./badRevenue/BadRevenue";
 import BeneathAI from "./dataBeneathAI/BeneathAI";
 import First from "./first/First";
+import RevenueDecision from "./revenueDecision/RevenueDecision";
 import Second from "./second/Second";
 
 export default function Layout() {
@@ -10,6 +11,7 @@ export default function Layout() {
             <Second />
             <BeneathAI/>
             <BadRevenue/>
+            <RevenueDecision/>
         </>
     )
 }
