@@ -6,23 +6,17 @@ export default function Header() {
             <div className="flex justify-between pt-7 pr-4 pl-4">
                 <div className="flex pl-4">
                     <img className="w-30 h-10" src="/asset/logo.png" alt="Img" />
-                    {/* dfsfds */}
                 </div>
 
                 <div className=" flex">
                     <div className="pr-4 text-header">
                         <div>Use Cases</div>
-                        <div className="">sffsf</div>
-                        <div>dfsfsdf</div>
                     </div>
                     <div className="pr-4 text-header">
                         <div>Product</div>
-                        <div>sfsfdfs</div>
-                        <div>xvcxvc</div>
                     </div>
                     <div className="pr-4 text-header">
                         <div>Resources</div>
-                        <div>dfsdfsdf</div>
                     </div>
                     <div className="pr-4 text-header">
                         <p>Requset a Demo</p>
