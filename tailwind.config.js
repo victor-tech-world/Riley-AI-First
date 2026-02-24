@@ -11,6 +11,7 @@ module.exports = {
       black: '#000',
       demo: '#ebeff7',
       demoBorder: '#d0d5dd',
+      badrevenue: '#333333',
     },
     extend: {},
   },
