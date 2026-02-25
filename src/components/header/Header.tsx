@@ -3,12 +3,12 @@ import logo from "../../assets/logo.svg"
 export default function Header() {
     return (
         <div className="px-40 fixed top-0 left-0 right-0 z-40 bg-whitecolor">
-            <div className="flex justify-between pt-7 pr-4 pl-4 ">
+            <div className="flex justify-between py-7 pr-4 pl-4 font-headfont">
                 <div className="flex pl-4">
                     <img className="w-30 h-10" src="/asset/logo.png" alt="Img" />
                 </div>
 
-                <div className=" flex pb-7 font-headfont">
+                <div className=" flex ">
                     <div className="pr-4 text-header">
                         <div className="">Use Cases</div>
                     </div>

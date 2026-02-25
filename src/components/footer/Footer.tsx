@@ -2,7 +2,7 @@ export default function() {
     return (
         <div className="container mx-auto pt-28">
             <div className="flex justify-between">
-                <div className=" ">
+                <div className="text-base ">
                     <div>
                         <img width={100} src="/asset/logo.png" />
                     </div>
@@ -11,7 +11,7 @@ export default function() {
                     <div>In</div>
                     {/* </div> */}
                 </div>
-                <div className=" ">
+                <div className="text-base ">
                     {/* <div className="basis-1/6"> */}
                         <div>Careers</div>
                         <div>Events</div>
@@ -23,7 +23,7 @@ export default function() {
                 </div>
             </div>
             <div className="flex justify-between border-solid border-t m-3 border-">
-                <div className="flex p-3 text-footer">© 2025 Riley AI. All rights reserved.</div>
+                <div className="flex p-3 text-footer text-base">© 2025 Riley AI. All rights reserved.</div>
                 <div className="flex ">
                     <p className="p-3 text-footer hover:text-black hover:cursor-pointer">Terms</p>
                     <p className="p-3 text-footer hover:text-black hover:cursor-pointer ">Privacy</p>

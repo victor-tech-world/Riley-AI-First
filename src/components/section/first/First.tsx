@@ -2,7 +2,7 @@ export default function First() {
     return (
         <div className='mx-auto '>
             <div className="mt-28 text-center">
-                <div className=" justify-self-center p-4 w-1/2">
+                <div className=" justify-self-center p-4 w-3/4">
                     <p className="text-5xl">
                         The unified data intelligence layer for revenue growth
                     </p>
