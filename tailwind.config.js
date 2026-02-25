@@ -12,6 +12,7 @@ module.exports = {
       demo: '#ebeff7',
       demoBorder: '#d0d5dd',
       badrevenue: '#333333',
+      infrastructure: '#475467',
     },
     extend: {},
   },
