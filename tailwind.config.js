@@ -27,9 +27,9 @@ module.exports = {
       sas: 'Plus Jakarta Sans, sans-serif',
       headfont: 'Inter, sans-serif',
     },
-    fontSize: {
-      headerfont: []
-    }
+    // fontSize: {
+    //   headerfont: []
+    // }
   },
   plugins: [],
 }

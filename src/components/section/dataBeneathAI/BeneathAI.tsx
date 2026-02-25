@@ -2,7 +2,7 @@ import React from 'react';
 
 const BeneathAI = () => {
     return (
-        <div className="container mx-auto">
+        <div className="mx-auto max-w-4xl mx-auto">
             <div className="mt-8 text-center">
                 <div className=" justify-self-center p-4">
                     <p className="text-3xl">

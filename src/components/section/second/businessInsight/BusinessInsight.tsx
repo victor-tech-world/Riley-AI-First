@@ -2,7 +2,7 @@ import React from 'react';
 
 const BusinessInsight = () => {
     return (
-        <div className="grid lg:grid-cols-2 md:grid-cols-1 pr-9 pt-24">
+        <div className="grid lg:grid-cols-2 md:grid-cols-1 pr-9 pt-24 max-w-4xl mx-auto">
             <div className="flex flex-col text-start">
                 <p className="text-3xl pb-9">Decisions tested before resources are committed</p>
                 <p className="pb-5">

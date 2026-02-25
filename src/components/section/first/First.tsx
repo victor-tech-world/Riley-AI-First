@@ -1,9 +1,9 @@
 export default function First() {
     return (
-        <div className="container mx-auto">
-            <div className="mt-8 text-center">
+        <div className='mx-auto '>
+            <div className="mt-28 text-center">
                 <div className=" justify-self-center p-4 w-1/2">
-                    <p className="text-5xl font-sas">
+                    <p className="text-5xl">
                         The unified data intelligence layer for revenue growth
                     </p>
                 </div>
@@ -15,7 +15,7 @@ export default function First() {
                 <button className="border-solid rounded-lg border-demoBorder border-2 hover:bg-demo hover:cursor-pointer">
                     <p className="p-2">Request a demo</p>
                 </button>
-                <div className="pt-10">
+                <div className="mx-auto pt-10 w-3/4">
                     <img src="/asset/img_1.png" />
                 </div>
             </div>
