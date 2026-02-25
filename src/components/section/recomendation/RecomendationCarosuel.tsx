@@ -9,7 +9,7 @@ const RecomendationCarosuel = () => {
             <div className='justify-self-center py-0'>
                Christian Hermawan 
             </div>
-            <div className='justify-self-center py-0'>Insights Leader, Freelancer</div>
+            <div className='justify-self-center text-xl py-0'>Insights Leader, Freelancer</div>
         </div>
     );
 };
