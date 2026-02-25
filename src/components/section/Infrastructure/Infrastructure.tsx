@@ -12,7 +12,7 @@ const Infrastructure = () => {
                 <div className='text-lg pb-8 text-infrastructure'>
                     Riley is SOC 2 Type II and GDPR compliant, with strict security measures to ensure your customer data and insights remain private, protected, and never misused
                 </div>
-                <button className="border-solid rounded-lg border-demoBorder border-2 hover:bg-demo hover:cursor-pointer">
+                <button className="border-solid rounded-lg border-demoBorder border hover:bg-demo hover:cursor-pointer">
                     <p className="p-2 text-badrevenue">Discover how we protect your datao</p>
                 </button>
             </div>

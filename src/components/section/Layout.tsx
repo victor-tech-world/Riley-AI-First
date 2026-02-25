@@ -1,5 +1,6 @@
 import BadRevenue from "./badRevenue/BadRevenue";
 import BeneathAI from "./dataBeneathAI/BeneathAI";
+import Discover from "./discover/Discover";
 import First from "./first/First";
 import Infrastructure from "./Infrastructure/Infrastructure";
 import RecomendationCarosuel from "./recomendation/RecomendationCarosuel";
@@ -16,6 +17,7 @@ export default function Layout() {
             <RevenueDecision/>
             <RecomendationCarosuel/>
             <Infrastructure/>
+            <Discover />
         </>
     )
 }

@@ -1,6 +1,6 @@
 export default function() {
     return (
-        <div className="container mx-auto pt-14">
+        <div className="container mx-auto pt-28">
             <div className="flex justify-between">
                 <div className=" ">
                     <div>

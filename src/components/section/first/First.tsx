@@ -3,7 +3,7 @@ export default function First() {
         <div className="container mx-auto">
             <div className="mt-8 text-center">
                 <div className=" justify-self-center p-4 w-1/2">
-                    <p className="text-5xl">
+                    <p className="text-5xl font-sas">
                         The unified data intelligence layer for revenue growth
                     </p>
                 </div>
