@@ -3,22 +3,22 @@ import React from 'react';
 const RevenueDecision = () => {
     return (
         <div>
-            <div className='text-2xl pt-20 text-center text-[24px] font-sas max-w-[800px] justify-self-center leading-[35px]'>Trusted by teams turning customer signals into revenue decisions</div>
-            <div className='flex flex-row justify-center px-3 pt-14 gap-x-7'>
+            <div className='text-2xl pt-20 text-center text-[24px] font-sas max-w-[800px] justify-self-center leading-[35px] mb-[16px]'>Trusted by teams turning customer signals into revenue decisions</div>
+            <div className='flex  justify-center px-3 gap-x-7 mt-[60px]'>
                 {/* <div className='px-2 mix-blend-luminosity'> */}
-                    <img width={120} src='/asset/img_10.png'/>
+                    <img className='max-h-[50px] ' src='/asset/img_10.png'/>
                 {/* </div> */}
                 {/* <div className='px-2 mix-blend-luminosity'> */}
-                    <img width={120} src='/asset/img_11.png'/>
+                    <img className='max-h-[50px]' src='/asset/img_11.png'/>
                 {/* </div> */}
                 {/* <div className='px-2'> */}
-                    <img width={250} src='/asset/img_12.svg'/>
+                    <img className='max-h-[50px]' src='/asset/img_12.svg'/>
                 {/* </div> */}
                 {/* <div className='px-2'> */}
-                    <img width={150} src='/asset/img_13.png'/>
+                    <img className='max-h-[50px]' src='/asset/img_13.png'/>
                 {/* </div> */}
                 {/* <div className='px-2'> */}
-                    <img width={200} src='/asset/img_14.png'/>
+                    <img className='max-h-[50px]' src='/asset/img_14.png'/>
                 {/* </div> */}
                 {/* <img src='/asset/img_11.png'/>
                 <img src='/asset/img_12.png'/>
