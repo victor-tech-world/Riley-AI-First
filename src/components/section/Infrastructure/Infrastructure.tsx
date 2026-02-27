@@ -5,7 +5,7 @@ const Infrastructure = () => {
         <div className='mx-auto px-[128px] pt-100px'>
         <div className='lg:grid-cols-2 grid pt-20 gap-x-10 mx-auto'>
             <div className=''>
-                    <p className='text-[50px] text-infratitle font-sas font-[300] text-left pr-[300px]'>
+                    <p className='text-[50px] text-infratitle font-sas font-[300] leading- text-left pr-[300px]'>
                         <h2>
                             Enterprise Ready Infrastructure to
                             Protect Your Data
