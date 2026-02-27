@@ -5,8 +5,8 @@ const BusinessRevenue = () => {
         <>
         <div className="grid lg:grid-cols-2 md:grid-cols-1 pr-9 pt-24 max-w-4xl mx-auto">
             <div className="flex flex-col text-start">
-                <p className="text-3xl pb-9">Revenue risk identified early</p>
-                <p className="pb-5">
+                <p className="text-[30px] font-[500] pr-[40px] font-sas leading-8">Revenue risk identified early</p>
+                <p className="pb-5 text-[14px] leading-[20px] font-sas text-badrevenue pr-[40px] pt-[10px]">
                     Churn, renewal, and expansion signals surface months in advance, so teams know which customers to save, grow, or ignore before revenue decisions are forced
                 </p>
             </div>

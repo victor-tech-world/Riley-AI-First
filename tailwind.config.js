@@ -6,7 +6,7 @@ module.exports = {
   theme: {
     colors: {
       mainblue: '#146ef5',
-      header: '#222',
+      header: '#222222',
       footer: '#344054',
       black: '#000',
       demo: '#ebeff7',
@@ -17,6 +17,9 @@ module.exports = {
       discoverbgleftcolor: '#fbf5fd',
       discoverbgrightcolor: '#f9e4c9',
       whitecolor: '#ffffff',
+      infratitle: '#343434',
+      discovertitle: '#091f36',
+      footerhover: '#4c5c8a'
     },
     extend: {
       backgroundImage: {
@@ -26,10 +29,11 @@ module.exports = {
     fontFamily: {
       sas: 'Plus Jakarta Sans, sans-serif',
       headfont: 'Inter, sans-serif',
+      footerfont: 'system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif'
     },
-    // fontSize: {
-    //   headerfont: []
-    // }
+    fontSize: {
+      headerfont: []
+    }
   },
   plugins: [],
 }

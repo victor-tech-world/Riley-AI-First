@@ -1,6 +1,7 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+import 'flowbite';
 import Header from './components/header/Header';
 import Footer from './components/footer/Footer';
 import Dashboard from './components/section/Layout'
