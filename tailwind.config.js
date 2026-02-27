@@ -6,7 +6,7 @@ module.exports = {
   theme: {
     colors: {
       mainblue: '#146ef5',
-      header: '#222',
+      header: '#222222',
       footer: '#344054',
       black: '#000',
       demo: '#ebeff7',
@@ -27,9 +27,9 @@ module.exports = {
       sas: 'Plus Jakarta Sans, sans-serif',
       headfont: 'Inter, sans-serif',
     },
-    // fontSize: {
-    //   headerfont: []
-    // }
+    fontSize: {
+      headerfont: []
+    }
   },
   plugins: [],
 }

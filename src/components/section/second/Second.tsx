@@ -10,7 +10,7 @@ import BusinessInsight from "./businessInsight/BusinessInsight";
 
 export default function Second() {
     return (
-        <div className="container mx-auto">
+        <div className="mx-auto max-w-[940px]">
         <Title/>
         {/* {
             businessSecond.map((item:any, key:number) => {

@@ -3,12 +3,12 @@ import React from 'react';
 const RevenueDecision = () => {
     return (
         <div>
-            <div className='text-2xl pt-20 text-center'>Trusted by teams turning customer signals into revenue decisions</div>
+            <div className='text-2xl pt-20 text-center text-[24px] font-sas max-w-[800px]'>Trusted by teams turning customer signals into revenue decisions</div>
             <div className='flex flex-row justify-center px-3 pt-14'>
-                <div className='px-2'>
+                <div className='px-2 mix-blend-luminosity'>
                     <img width={120} src='/asset/img_10.png'/>
                 </div>
-                <div className='px-2'>
+                <div className='px-2 mix-blend-luminosity'>
                     <img width={120} src='/asset/img_11.png'/>
                 </div>
                 <div className='px-2'>

@@ -1,10 +1,10 @@
 export default function BusinessShow() {
     return (
         <>
-        <div className="grid lg:grid-cols-2 md:grid-cols-2 pr-9 max-w-4xl mx-auto">
+        <div className="grid lg:grid-cols-2 md:grid-cols-2 max-w-4xl mx-auto">
             <div className="flex flex-col text-start">
-                <p className="text-3xl pb-5">From fragmented data to a single operating view</p>
-                <p className="pb-5">
+                <p className="text-[30px] font-[500] pr-[40px] font-sas leading-8">From fragmented data to a single operating view</p>
+                <p className="pb-5 text-[14px] leading-[20px] font-sas text-badrevenue pr-[40px] pt-[10px]">
                     Customer, product, and revenue signals are continuously reconciled into one trusted business model, so every team works from the same reality
                 </p>
             </div>
